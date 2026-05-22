@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1363",
+  "folder": "YouTube__watch_20260522180331_5a1340",
+  "base_name": "zADLGLEkClw_zADLGLEkClw_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/3adegh/Cloud-Downloads-1/releases/tag/co-releases-v1-1363",
+  "files": [
+    {
+      "name": "zADLGLEkClw_zADLGLEkClw_1080p.mp4",
+      "url": "https://github.com/3adegh/Cloud-Downloads-1/releases/download/co-releases-v1-1363/zADLGLEkClw_zADLGLEkClw_1080p.mp4",
+      "api_url": "https://api.github.com/repos/3adegh/Cloud-Downloads-1/releases/assets/427272363",
+      "id": 427272363,
+      "size": 63714620,
+      "download_count": 0
+    }
+  ]
+}
