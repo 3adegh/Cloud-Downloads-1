@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7909",
+  "folder": "YouTube__watch_20260522172836_bd6c12",
+  "base_name": "This_is_a_game_from_2009_What_happened_xMh9itjkaJ0_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/3adegh/Cloud-Downloads-1/releases/tag/co-releases-v1-7909",
+  "files": [
+    {
+      "name": "This_is_a_game_from_2009_What_happened_xMh9itjkaJ0_1080p.mp4",
+      "url": "https://github.com/3adegh/Cloud-Downloads-1/releases/download/co-releases-v1-7909/This_is_a_game_from_2009_What_happened_xMh9itjkaJ0_1080p.mp4",
+      "api_url": "https://api.github.com/repos/3adegh/Cloud-Downloads-1/releases/assets/427250578",
+      "id": 427250578,
+      "size": 385349692,
+      "download_count": 0
+    }
+  ]
+}
